@@ -5,8 +5,18 @@ strong {
 }
 
 
-/*  italic */
+/* italic */
 .cm-em,
 em {
     color: #E06C75 !important;
+}
+
+
+/* bold and italic */
+strong>em {
+    color: #C678DD !important;
+}
+
+.cm-em.cm-strong {
+    color: #C678DD !important;
 }
