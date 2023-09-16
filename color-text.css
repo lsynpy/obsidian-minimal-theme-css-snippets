@@ -1,0 +1,12 @@
+/* bold*/
+.cm-strong,
+strong {
+    color: #98C379 !important;
+}
+
+
+/*  italic */
+.cm-em,
+em {
+    color: #E06C75 !important;
+}
